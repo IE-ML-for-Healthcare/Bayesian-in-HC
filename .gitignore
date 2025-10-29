@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Mine
+03_Bayes_exercise (answers).ipynb
+
 # C extensions
 *.so
 
