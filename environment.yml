@@ -17,4 +17,6 @@ dependencies:
   # Viz
   - matplotlib
   - seaborn
+  # ML
+  - scikit-learn
   - pip
