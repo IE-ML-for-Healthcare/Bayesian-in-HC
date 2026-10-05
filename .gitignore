@@ -5,6 +5,7 @@ __pycache__/
 
 # Mine
 03_Bayes_exercise (answers).ipynb
+04_naive_bayes_opioid_demo.ipynb
 
 # C extensions
 *.so
